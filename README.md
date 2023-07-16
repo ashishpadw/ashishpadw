@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashishpadw
 - 👀 I’m interested in Full Stack Web Development and exploring other domains as well
-- 🌱 I’m good with JavaScript (Nodejs) and Java (Spring Boot)
-- 💞️ I’m looking to collaborate on APIs endpoint creation
+- 🌱 I’m good with Java (Spring Boot) and little bit of JavaScript
+- 💞️ I’m looking to collaborate on projects
 - 📫 Reach me through LinkedIn @ashishpadw
 
 <!---
